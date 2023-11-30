@@ -5,19 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8255d6c0-61e1-48a6-af31-808943cf61ea" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/java-i-final-project-KimHak131.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/java-i-final-project-KimHak131.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src.iml" beforeDir="false" afterPath="$PROJECT_DIR$/src/src.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/travelmanagement/About.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/travelmanagement/About.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/travelmanagement/AddCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/travelmanagement/AddCustomer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/travelmanagement/BookHotel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/travelmanagement/BookHotel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/travelmanagement/BookPackage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/travelmanagement/BookPackage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/travelmanagement/CheckHotel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/travelmanagement/CheckHotel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/travelmanagement/CheckPackage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/travelmanagement/CheckPackage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/travelmanagement/Conn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/travelmanagement/Conn.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/src/travelmanagement/Dashboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/travelmanagement/Dashboard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/travelmanagement/DeletePersonalDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/travelmanagement/DeletePersonalDetail.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/travelmanagement/Destination.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/travelmanagement/Destination.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/travelmanagement/ForgetPassword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/travelmanagement/ForgetPassword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/travelmanagement/Loading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/travelmanagement/Loading.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/travelmanagement/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/travelmanagement/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/travelmanagement/Payment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/travelmanagement/Payment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/travelmanagement/Paymt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/travelmanagement/Paymt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/travelmanagement/ShowData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/travelmanagement/ShowData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/travelmanagement/Signup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/travelmanagement/Signup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/travelmanagement/Splash.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/travelmanagement/Splash.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/travelmanagement/UpdateCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/travelmanagement/UpdateCustomer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/travelmanagement/ViewBookedHotel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/travelmanagement/ViewBookedHotel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/travelmanagement/ViewCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/travelmanagement/ViewCustomer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/travelmanagement/ViewPackage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/travelmanagement/ViewPackage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
